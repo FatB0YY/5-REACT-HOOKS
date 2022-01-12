@@ -1,0 +1,5 @@
+1. useInput - управляемый инпут
+2. useHover - наведение на элемент
+3. useScroll/useInfinitePagination - динамическая пагинация
+4.
+5. useHttp - get запрос на сервер
